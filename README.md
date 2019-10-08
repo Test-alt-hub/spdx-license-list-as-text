@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTest-alt-hub%2Fspdx-license-list-as-text.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTest-alt-hub%2Fspdx-license-list-as-text?ref=badge_shield)
+
 The license list from SPDX for testing multiple OSS Compliance solutions:
 * FOSSology
 * Scancode-toolkit
@@ -21,3 +23,7 @@ The license list from SPDX for testing multiple OSS Compliance solutions:
 * licensor
 * license-lc
 * spdxl
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTest-alt-hub%2Fspdx-license-list-as-text.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTest-alt-hub%2Fspdx-license-list-as-text?ref=badge_large)
